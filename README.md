@@ -1,3 +1,5 @@
+# Digital Clock
+# Building a DigitalClock using python programming
 echo "# DigitalClock using python programming" >> README.md
 git init
 git add README.md
