@@ -1,4 +1,4 @@
-echo "# Calculator" >> README.md
+echo "# DigitalClock using python programming" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
